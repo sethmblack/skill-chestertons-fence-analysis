@@ -1,12 +1,10 @@
 ---
 name: chestertons-fence-analysis
-description: 'Evaluate traditions, institutions, rules, or practices before abolishing
-  them. Based on G.K. Chesterton''s famous principle: don''t take down a fence until
-  you understand why it was put up.'
+description: 'Evaluate traditions, institutions, rules, or practices before abolishing them. Based on G.K. Chesterton''s famous principle: don''t take down a fence until you understand why it was put up.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - chesterton's-fence-analysis
 - writing
